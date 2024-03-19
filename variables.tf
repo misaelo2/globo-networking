@@ -30,6 +30,6 @@ variable "public_subnets" {
 }
 
 variable "environment" {
- type  = string
- default = "development" 
+  type    = string
+  default = "development"
 }
